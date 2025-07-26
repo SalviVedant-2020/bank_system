@@ -10,9 +10,9 @@ ENV/
 .venv/
 .ENV/
 
-# SQLite DB files
-*.db
-*.sqlite3
+# # SQLite DB files
+# *.db
+# *.sqlite3
 
 # Logs
 *.log
